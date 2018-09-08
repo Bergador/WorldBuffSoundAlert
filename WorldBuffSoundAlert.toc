@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: WorldBuffSoundAlert
+## Version: 1.00
+## Notes: Plays a fanfare sound when a world buff is about to go out.
+
+WorldBuffSoundAlert.lua
